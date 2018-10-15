@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Source+Sans+Pro|Poppins');
+body
+{
+  background: #F7F7F7;
+  margin: 0;
+}
+#Header
+{
+  background: linear-gradient(to right, #3C96FF , #2DFBFF);
+  height: 35vw;
+  width: 100%;
+}
+#Menu
+{
+  background: transparent;
+  margin: 0;
+  width: 100%;
+  height: 3vw;
+  margin: auto;
+  width: 55vw;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  user-select: none;
+  align-items: center;
+  justify-content: center;
+  padding-top: 0.2vw;
+}
+#MenuLogo
+{
+  margin: 0;
+  float: left;
+  line-height: 3vw;
+  font-family: Source Sans Pro;
+  font-weight: 200;
+  font-size: 1.5vw;
+  color: #FFFFFF;
+}
+#ImageLogo
+{
+  float: left;
+  position: relative;
+  height: 2vw;
+  width: 2vw;
+  top: 0.4vw;
+  bottom: 0.4vw;
+  padding-right: 0.2vw;
+}
+#MenuItem
+{
+  margin: 0;
+  float: right;
+  line-height: 3vw;
+  font-family: Poppins;
+  font-weight: 100;
+  font-size: 0.8vw;
+  color: #FFFFFF;
+  padding-left: 0.2vw;
+  padding-right: 0.2vw;
+  margin-left: 0.8vw;
+  margin-right: 0.8vw;
+}
+#MenuItem:hover
+{
+  border-bottom: #FFFFFF solid 0.1vw;
+  cursor: pointer;
+}
+#DownloadButton
+{
+  margin: 0;
+  float: right;
+  font-family: Poppins;
+  font-weight: 800;
+  font-size: 0.65vw;
+  margin-left: 1vw;
+  color: #FFFFFF;
+  display: inline-block;
+  height: 1.5vw;
+  width: 8vw;
+  border-radius: 50vw;
+  border: none;
+  background: #144E7B;
+  top: 0.75vw;
+  bottom: 0.75vw;
+  position: relative;
+  cursor: pointer;
+  outline: none
+}
