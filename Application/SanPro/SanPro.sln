@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanPro", "SanPro\SanPro.csproj", "{AAABC174-9586-4E35-A305-F16360BAEBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAABC174-9586-4E35-A305-F16360BAEBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAABC174-9586-4E35-A305-F16360BAEBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAABC174-9586-4E35-A305-F16360BAEBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAABC174-9586-4E35-A305-F16360BAEBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E42FAD6C-1CEE-4826-93D1-434A53CAABBF}
+	EndGlobalSection
+EndGlobal
