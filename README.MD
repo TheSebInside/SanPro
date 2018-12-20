@@ -1,4 +1,4 @@
-###### 🔔 Published previews for the design of the user interface 🔔
+###### 🔔 Published previews for the design of the user interface ([Click here](https://github.com/TheSebInside/SanPro/tree/master/images/preview)) 🔔
 ---
 [![SanPro](https://raw.githubusercontent.com/TheSebInside/SanPro/master/images/LogoBanner.png)](https://github.com/TheSebInside/SanPro)
 ---
@@ -18,4 +18,4 @@
 #### - Shopping Lists
 #### - (Digital) First Aid Teaching Material
 ---
-###### 🖋 Last change on October 14, 2018 | Version 1.0.0
+###### 🖋 Last change on December 20, 2018 | Version 1.0.1
