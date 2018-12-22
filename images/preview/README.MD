@@ -11,10 +11,10 @@
 | 5 | Shopping List | ❌  | | |
 | 6 | Warehouse Management | ❌  | | |
 | 7 | User Management | ❌  | | |
-| 8 | Lerning Platform | ❌  | | |
+| 8 | Learning Platform | ❌  | | |
 | 9 | Console | ❌  | | |
 | 10 | Bug Reports | ❌  | | |
-| 11 | About | ❌  | | |
+| 11 | About | ✔️  | [Click here](https://github.com/TheSebInside/SanPro/tree/master/images/preview#About)| 1|
 | 12 | Settings | ❌  | | |
 ---
 ### LoginScreen
@@ -30,3 +30,7 @@
 ### Protocol
 ![sanpro.protocolpreview](https://raw.githubusercontent.com/TheSebInside/SanPro/master/images/preview/preview.protocol.png)
 ##### Protocoltab in german language
+---
+### About
+![sanpro.aboutpreview](https://raw.githubusercontent.com/TheSebInside/SanPro/master/images/preview/preview.about.png)
+##### Abouttab in german language
